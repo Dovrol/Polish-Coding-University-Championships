@@ -1,8 +1,5 @@
 # Polish-Coding-University-Championships
-Code for Polish Coding University Championships
-
-##### Code took 4th place in qualifiers
-
+Code that took 4th place in Polish Coding University Championships qualifiers
 
 ##### Problem in polish:
 ![map](ss.png)
